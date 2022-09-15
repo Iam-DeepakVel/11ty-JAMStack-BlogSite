@@ -1,0 +1,24 @@
+{
+  "name": "11ty-jamstack-blogsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build":"eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iam-DeepakVel/11ty-JAMStack-BlogSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iam-DeepakVel/11ty-JAMStack-BlogSite/issues"
+  },
+  "homepage": "https://github.com/Iam-DeepakVel/11ty-JAMStack-BlogSite#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
